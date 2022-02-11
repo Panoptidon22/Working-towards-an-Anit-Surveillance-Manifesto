@@ -1,6 +1,5 @@
 ### Working towards an Anti-Surveillance Manifesto
-
-![Image](https://github.com/Panoptidon22/Working-towards-an-Anit-Surveillance-Manifesto/blob/4d0a4e38d7f7c4bfda18c2369eca2db6781ab13c/Scar%20Tissue%20Color%20Pallate.jpg)
+![Scar Tissue Color Pallate](https://user-images.githubusercontent.com/99458916/153538563-e2dcd023-7266-45e9-a3c2-4908f660a1cd.jpg)
 
  
 You can use the [editor on GitHub](https://github.com/Panoptidon22/Working-towards-an-Anit-Surveillance-Manifesto/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
