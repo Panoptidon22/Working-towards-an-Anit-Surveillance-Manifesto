@@ -1,4 +1,4 @@
-### I am developing a practice for BIPOC fowlks to be seen and not watched in space.
+### Working towards an Anti-Surveillance Manifesto
 
 You can use the [editor on GitHub](https://github.com/Panoptidon22/Working-towards-an-Anit-Surveillance-Manifesto/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
