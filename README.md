@@ -73,7 +73,6 @@ I outlined the average rate of each racial category in New York City overlaid wi
 
 
 
-[Link to Historical Mapping] (https://drive.google.com/drive/u/1/folders/1Xk7t9AT19E7j_Ny3YKI7W3xGswKKNqy5)
 
 
 
