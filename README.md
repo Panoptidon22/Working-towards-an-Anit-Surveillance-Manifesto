@@ -39,6 +39,10 @@ In New York City, Black and Latinx communities are the heaviest policed in compa
 
 
 
+[Link to Historical Mapping](https://drive.google.com/drive/u/1/folders/1Xk7t9AT19E7j_Ny3YKI7W3xGswKKNqy5)
+
+
+
 
 
 ### Map 1: Skin Tones 
@@ -72,9 +76,6 @@ I outlined the average rate of each racial category in New York City overlaid wi
 
 
 
-
-
-[Link to Historical Mapping](https://drive.google.com/drive/u/1/folders/1Xk7t9AT19E7j_Ny3YKI7W3xGswKKNqy5)
 
 
 
