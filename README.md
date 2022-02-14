@@ -71,6 +71,12 @@ In this map I wanted to visualize the Top 3 forms of misdemeanor arrest taking p
 I outlined the average rate of each racial category in New York City overlaid with the arrest density. This way you can see a clear picture of the density of where misdemeanor arrests are happening within the communities throughout New York City to highlight intervention points. This map specifically resembled police surveillance software like Predpol and Domain Awareness Systems. 
 
 
+
+
+[Link to Historical Mapping] (https://drive.google.com/drive/u/1/folders/1Xk7t9AT19E7j_Ny3YKI7W3xGswKKNqy5)
+
+
+
 You can use the [editor on GitHub](https://github.com/Panoptidon22/Working-towards-an-Anit-Surveillance-Manifesto/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
