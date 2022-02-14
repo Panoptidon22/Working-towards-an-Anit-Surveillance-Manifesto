@@ -39,25 +39,34 @@ In New York City, Black and Latinx communities are the heaviest policed in compa
 
 
 
-Map 1: Skin Tones 
+
+
+### Map 1: Skin Tones 
 
 <iframe width="100%" height="520" frameborder="0" src="https://thenewschool.carto.com/u/reedd180/builder/7f53631c-259b-45fd-9984-816636dd8350/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 
 In my first mapping iteration the data visualization software I was using, Carto, generated a skin tone color palette to represent my data on the Black population of New York City and Misdemeanor arrests. I found this range in color a fascinating metaphor for the scarring that happens beneath the skin. My first maps are a bodily representation of the density and concentration of this trauma that forms in different parts of New York City due to police surveillance. I made a design decision to use these colors throughout my visualization process. 
 
 
 
-Map 2: Dot Density
+
+
+### Map 2: Misdemeanor Arrests Dot Density
 
 <iframe width="100%" height="520" frameborder="0" src="https://thenewschool.carto.com/u/reedd180/builder/1ff5f402-b1b5-4c17-9154-da60093aba84/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 
 In this map I wanted to visualize the Top 3 forms of misdemeanor arrest taking place in relation to the concentration of Black and latnix communities. Being able to toggle through racial populations and different misdemeanor arrests shows the nuances of criminalization and its locality. I used the color palettes I generated from my initial scar tissue mapping for the 3 misdemeanors in a dot density formation.The Top 3 Misdemeanor  arrests are Assault 3, Petit Larceny, and Dangerous Drugs. 
 
 
 
-Map 3: Predpol Reanimation 
+
+
+### Map 3: Predpol Reanimation 
 
 <iframe width="100%" height="520" frameborder="0" src="https://thenewschool.carto.com/u/reedd180/builder/d4977c3f-22f4-4178-9cc4-cf552f6aadee/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 
 I outlined the average rate of each racial category in New York City overlaid with the arrest density. This way you can see a clear picture of the density of where misdemeanor arrests are happening within the communities throughout New York City to highlight intervention points. This map specifically resembled police surveillance software like Predpol and Domain Awareness Systems. 
 
