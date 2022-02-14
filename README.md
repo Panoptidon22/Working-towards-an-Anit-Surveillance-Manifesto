@@ -74,7 +74,7 @@ I outlined the average rate of each racial category in New York City overlaid wi
 
 
 
-
+[Link to Historical Mapping](https://drive.google.com/drive/u/1/folders/1Xk7t9AT19E7j_Ny3YKI7W3xGswKKNqy5)
 
 You can use the [editor on GitHub](https://github.com/Panoptidon22/Working-towards-an-Anit-Surveillance-Manifesto/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
