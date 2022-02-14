@@ -81,7 +81,12 @@ I outlined the average rate of each racial category in New York City overlaid wi
 
 
 
-Lets escape the New Jim Code Together <3 Collective Futures <3
+
+
+
+
+
+Lets escape the New Jim Code Together. 
 
 <iframe src="https://giphy.com/embed/Kub63Drho439HhjvA6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Kub63Drho439HhjvA6">via GIPHY</a></p>
 
