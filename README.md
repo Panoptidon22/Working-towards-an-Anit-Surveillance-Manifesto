@@ -1,4 +1,4 @@
-### Working towards an Anti-Surveillance Manifesto
+
 
 ![Scar Tissue Color Pallate](https://user-images.githubusercontent.com/99458916/153538563-e2dcd023-7266-45e9-a3c2-4908f660a1cd.jpg)
 
