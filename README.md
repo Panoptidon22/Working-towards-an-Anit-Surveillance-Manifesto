@@ -61,7 +61,7 @@ In my first mapping iteration the data visualization software I was using, Carto
 <iframe width="100%" height="520" frameborder="0" src="https://thenewschool.carto.com/u/reedd180/builder/1ff5f402-b1b5-4c17-9154-da60093aba84/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
-In this map I wanted to visualize the Top 3 forms of misdemeanor arrest taking place in relation to the concentration of Black and latnix communities. Being able to toggle through racial populations and different misdemeanor arrests shows the nuances of criminalization and its locality. I used the color palettes I generated from my initial scar tissue mapping for the 3 misdemeanors in a dot density formation.The Top 3 Misdemeanor  arrests are Assault 3, Petit Larceny, and Dangerous Drugs. 
+In this map I wanted to visualize the Top 3 forms of misdemeanor arrest taking place in relation to the concentration of Black and latnix communities. Being able to toggle through racial populations and different misdemeanor arrests shows the nuances of criminalization and its locality. I used the color palettes I generated from my initial scar tissue mapping for the 3 misdemeanors in a dot density formation. The Top 3 Misdemeanor  arrests are Assault 3, Petit Larceny, and Dangerous Drugs.
 
 
 
@@ -86,7 +86,7 @@ I outlined the average rate of each racial category in New York City overlaid wi
 
 
 
-**Lets escape the New Jim Code Together.**
+**Lets escape the New Jim Code together.**
 
 <iframe src="https://giphy.com/embed/Kub63Drho439HhjvA6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Kub63Drho439HhjvA6">via GIPHY</a></p>
 
